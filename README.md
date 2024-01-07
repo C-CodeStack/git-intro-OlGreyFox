@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13320949&assignment_repo_type=AssignmentRepo)
 # :wave: The Basics of GitHub
 
 Hey this is MR.C... This document has a bunch of stuff. It is all useful but I wanted to help you by pointing out the most important information for us. You can find this important info by `looking fot he highlighted text`
