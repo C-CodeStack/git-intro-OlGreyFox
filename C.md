@@ -1,4 +1,7 @@
-Looks like I can make my own file here. This is where you should be able to write about what you learned and what you still don't understand. It should be more than this and with some markdowns
+I just made a change "this should be highlighted". It was highlighted because it has quotes around it.
 
+#this is large
 
-I am adding work here
+it is large because of the leading hash
+
+I still don't know how to turn in you work.
